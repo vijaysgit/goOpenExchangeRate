@@ -19,7 +19,7 @@ Installation
         
         cd goOpenExchangeRate
         
-Access the Open Exchange Rates API using this command.        
+Access the Open Exchange Rates API using this program.        
         
         go run goOpenExchangeRate
         
